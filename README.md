@@ -9,8 +9,8 @@ class bjedbjed:
         self.country = 'Poland'
         self.polish = 'Native'
         self.english = 'Advanced'
-	      self.chinese = 'Communicative'
-        self.skills = {#some knowledge
+	self.chinese = 'Intermediate'
+        self.skills = {
           'technical':['Python','SQL','MySQL', 'SQL Server', 'Pandas', 'Numpy', 'Matplotlib.pyplot', 'Sklearn', 'Jupyter Notebook'. 'Visual Studio Code']
         }
 
