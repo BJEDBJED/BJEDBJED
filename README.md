@@ -11,7 +11,7 @@ class bjedbjed:
         self.english = 'Advanced'
 	self.chinese = 'Intermediate'
         self.skills = {
-          'technical':['Python','SQL','MySQL', 'SQL Server', 'Pandas', 'Numpy', 'Matplotlib.pyplot', 'Sklearn', 'Jupyter Notebook'. 'Visual Studio Code']
+          'technical':['Python','SQL', 'SQL Server', 'Pandas', 'Numpy','PyTorch', 'Matplotlib.pyplot', 'Sklearn', 'Jupyter Notebook'. 'Visual Studio Code','Algorithms']
         }
 
     def __str__(self):
