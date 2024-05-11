@@ -7,13 +7,13 @@ class BjedBjed:
         self.background = 'Financial Engineer' 
         self.now = 'Data Science Student'
         self.country = 'Poland'
-         self.languages = {
+        self.languages = {
             'polish': 'Native',
             'english': 'Advanced',
             'chinese': 'Intermediate'
         }
         self.skills = {
-          'technical': ['Python', 'SQL', 'SQL Server', 'Pandas', 'Numpy', 'PyTorch', 'Matplotlib.pyplot',
+            'technical': ['Python', 'SQL', 'SQL Server', 'Pandas', 'Numpy', 'PyTorch', 'Matplotlib.pyplot',
                           'Scikit-learn', 'Jupyter Notebook', 'Visual Studio Code', 'Algorithms']
         }
 
