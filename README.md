@@ -3,9 +3,9 @@ class BjedBjed:
     def __init__(self):
         self.username = 'bjedbjed'
         self.name = 'Blazej'
-        self.definition = 'Self motivated learner'
+        self.definition = 'self motivated learner'
         self.background = 'Financial Engineer' 
-        self.now = 'Data Science Student'
+        self.now = 'Data Analyst'
         self.country = 'Poland'
         self.languages = {
             'polish': 'Native',
@@ -13,8 +13,8 @@ class BjedBjed:
             'chinese': 'Intermediate'
         }
         self.skills = {
-            'technical': ['Python', 'SQL', 'SQL Server', 'Pandas', 'Numpy', 'PyTorch', 'Matplotlib.pyplot',
-                          'Scikit-learn', 'Jupyter Notebook', 'Visual Studio Code', 'Algorithms']
+            'technical': ['Python', 'SQL', 'Postgres SQL','My SQL', 'Pandas', 'Numpy', 'PyTorch', 'Matplotlib.pyplot', 'Seaborn','Plotly',
+                          'Scikit-learn', 'Jupyter Notebook', 'Visual Studio Code', 'Visual Basic','Algorithms',]
         }
 
     def __str__(self):
