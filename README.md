@@ -10,11 +10,11 @@ class BjedBjed:
         self.languages = {
             'polish': 'Native',
             'english': 'Advanced',
-            'chinese': 'Intermediate'
+            'chinese': 'Intermediate',
         }
         self.skills = {
-            'technical': ['Python', 'SQL', 'Postgres SQL','My SQL', 'Pandas', 'Numpy', 'PyTorch', 'Matplotlib.pyplot', 'Seaborn','Plotly',
-                          'Scikit-learn', 'Jupyter Notebook', 'Visual Studio Code', 'Visual Basic','Algorithms',]
+            'technical': ['Python', 'SQL', 'Postgres SQL','My SQL', 'Pandas', 'Numpy', 'PyTorch', 'Matplotlib.pyplot', 'Seaborn',
+                          'Plotly', 'Scikit-learn', 'Jupyter Notebook', 'Visual Studio Code', 'Visual Basic', 'Algorithms',]
         }
 
     def __str__(self):
